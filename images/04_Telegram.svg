@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128mm" height="128mm" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <radialGradient id="radialGradient959-5-8-5-6" cx="253.12" cy="-94.575" r="77.981" gradientTransform="matrix(.099153 -.10206 .68446 .66495 -110.42 126.92)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(270.4 -10.322)">
+  <g>
+   <rect x="-265.61" y="22.553" width="118.44" height="103.68" rx="17.156" ry="17.156" fill="#fdf"/>
+   <path d="m-174.88 41.189h-62.758c-5.7692 0-10.46 4.6905-10.46 10.46v30.313c0 5.7692 4.6905 10.46 10.46 10.46h15.69v13.728c0 1.6016 1.8304 2.5332 3.1216 1.5853l20.413-15.314h23.534c5.7692 0 10.46-4.6905 10.46-10.46v-30.313c0-5.7692-4.6905-10.46-10.46-10.46z" fill="#850085" stroke-width=".16343"/>
+   <rect x="-265.61" y="22.553" width="118.44" height="103.68" rx="17.156" ry="17.156" fill="url(#radialGradient959-5-8-5-6)"/>
+  </g>
+  <g>
+   <rect x="-265.61" y="22.553" width="118.44" height="103.68" rx="17.156" ry="17.156" fill="none" stroke="#850085" stroke-width="5.9172"/>
+   <path d="m-261.6 31.445s53.452-1.0671 74.031 20.132c20.579 21.199 17.893 74.76 17.893 74.76l15.254-0.96784 7.7169-10.271-0.52521-81.444-6.4155-10.181-66.244-1.9867-33.718 2.6711z" fill="#fff" fill-opacity=".46843" stroke="#fdfdfd" stroke-opacity=".40326" stroke-width="1.101"/>
+   <rect x="-265.61" y="22.553" width="118.44" height="103.68" rx="17.156" ry="17.156" fill="none" stroke="#850085" stroke-width="5.9172"/>
+  </g>
+ </g>
+</svg>
